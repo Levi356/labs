@@ -1,6 +1,8 @@
 # Labs
 
-Personal lab notebook for virtual and hands-on work. Goal: document everything I touch so it becomes proof of work for systems/networking/infra roles or a future company.
+Personal lab notebook for virtual and hands-on work. 
+
+###Goal:  document everything I touch so it becomes proof of work
 
 ## Structure
 
