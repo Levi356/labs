@@ -12,6 +12,8 @@ install wire shark and do a simple sniffing to understand DNS IRL.
 - [wireshark org](https://www.wireshark.org/download.html) just click allow , allow allow and Boom you are in!
 
 ## Dirty Hands 
+- well after searching google on google
+- i filtered for dns and here we are [image](IMG_0143.jpeg)
 - 
 
 
