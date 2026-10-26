@@ -11,8 +11,4 @@ Personal lab notebook for virtual and hands-on work.
 
 Old student homework lives in other repos. This one is only for deliberate practice and notes.
 
-## How to use
-
-Every session: drop a dated markdown note in the relevant `notes/` folder. Keep it raw. What you did, what you saw, what broke, what you learned.
-
-#### we all need a fresh start 
+####### we all need a fresh start 
