@@ -2,7 +2,7 @@
 
 Personal lab notebook for virtual and hands-on work. 
 
-###Goal:  document everything I touch so it becomes proof of work
+### Goal:  document everything I touch so it becomes proof of work
 
 ## Structure
 
