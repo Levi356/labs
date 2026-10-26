@@ -14,8 +14,6 @@ install wire shark and do a simple sniffing to understand DNS IRL.
 ## Dirty Hands 
 - well after searching google on google
 - i filtered for dns and here we are [image](IMG_0143.jpeg)
-- 
 
-
-
-
+## What I understand now
+DNS is working. I can see the queries and responses in Wireshark when I resolve names. Basic DNS packet flow makes sense after watching it live.
