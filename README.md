@@ -12,3 +12,5 @@ Personal lab notebook for virtual and hands-on work.
 Old student homework lives in other repos. This one is only for deliberate practice and notes.
 
 ###### we all need a fresh start 
+
+xexvi5-fehgux-Wyjqor
